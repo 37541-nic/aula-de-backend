@@ -1,4 +1,4 @@
-// Carrega as variáveis de ambiente do arquivo .env
+//a Carrega as variáveis de ambiente do arquivo .env
 require("dotenv").config();
 
 const express = require("express");
